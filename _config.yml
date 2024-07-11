@@ -17,10 +17,7 @@ style: styles-6
 name: Bhavya Sanchaniya
 tagline: Senior Full Stack Web Developer
 pic: bhavyasanchaniya.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-summary: 'Summarise your career here lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-You can <a href="#" target="_blank">download this free resume/CV template here</a>. Aenean
-commodo ligula eget dolor aenean massa. Cum sociis natoque penatibus et magnis dis parturient
-montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu.'
+summary: 'Senior Full Stack Developer at Company A with 5 years of experience in web development. Specialized in development with Vuejs,Reactjs and Nodejs. Proven ability in data analysis and creating insightful visualization'
 
 #sidebar links
 email: bhavyasanchaniya@gmail.com

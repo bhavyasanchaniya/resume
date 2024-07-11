@@ -1,23 +1,18 @@
-intro: "You can list your side projects or open source libraries in this section. Lorem ipsum dolor
-  sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
+intro: "I have worked various projeccts with various tech stack with collaboration tools"
 projects:
   - project:
-    title: Velocity
-    link: "#hook"
-    tagline: "A responsive website template designed to help startups promote, market and sell their products."
-  - project:
-    title: DevStudio
+    title: Policy admin panel
     link: "#"
-    tagline: "A responsive website template designed to help web developers/designers market their services."
+    tagline: "A responsive admin panel with Angular and list and verify and PDF generation of policy."
   - project:
-    title: Tempo
+    title: Ride Booking
     link: "#"
-    tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+    tagline: "Taxi booking system in nodejs with socket.io."
   - project:
-    title: Atom
+    title: Photo editing portal online
     link: "#"
-    tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+    tagline: "Custom photo editor tool in reactjs."
   - project:
-    title: Delta
+    title: Cardiac patient information sync for clinics
     link: "#"
-    tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+    tagline: "Patient portal with multiple clinic built with Vuejs and Django with Docker."
