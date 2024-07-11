@@ -1,12 +1,15 @@
 - skill:
   name: PHP
-  level: 70%
+  level: 30%
 - skill:
   name: Javascript & jQuery
-  level: 45%
+  level: 85%
 - skill:
   name: HTML5 & CSS
   level: 80%
 - skill:
-  name: Photoshop
-  level: 30%
+  name: Vuejs/Reactjs
+  level: 80%
+- skill:
+  name: Nodejs
+  level: 80%
